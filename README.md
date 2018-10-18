@@ -4,7 +4,7 @@
 
 The goal of this project is to recreate the original chart (shown below) using calls to the Legacy Pagecounts and Pageviews APIs. The accompanying Jupyter notebook details all the steps taken to output the chart. This is designed to be an exercise in reproducibility. Users should be able to run the cells in the Jupyter notebook and identically collecte, process, and analyze the English Wikipedia data.
 
-! https://wiki.communitydata.cc/File:En-wikipedia_traffic_200801-201709_thompson.png
+! [Chart of views](https://wiki.communitydata.cc/File:En-wikipedia_traffic_200801-201709_thompson.png)
 
 
 ## License
