@@ -4,7 +4,7 @@
 
 The goal of this project is to recreate the original chart (https://wiki.communitydata.cc/File:En-wikipedia_traffic_200801-201709_thompson.png) using calls to the Legacy Pagecounts and Pageviews APIs. The accompanying Jupyter notebook details all the steps taken to output the chart. This is designed to be an exercise in reproducibility. Users should be able to run the cells in the Jupyter notebook and identically collecte, process, and analyze the English Wikipedia data.
 
-!(https://github.com/dwhite105/data-512-a1/blob/master/en-wikipedia_traffic_200712-201809.png)
+![](https://github.com/dwhite105/data-512-a1/blob/master/en-wikipedia_traffic_200712-201809.png)
 
 
 ## License
