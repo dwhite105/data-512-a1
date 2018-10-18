@@ -22,23 +22,15 @@ The APIs used to collect the data are documented below:
 The accompanying csv file contains data in the format and columns listed below.
 
 |Column | Value |
-| ------|-------|
+|-------|-------|
 |year   |	YYYY|
-|-------|-------|
-|month	| MM
-|-------|-------|
+|month	| MM|
 |pagecount_all_views|	num_views|
-|-------|-------|
 |pagecount_desktop_views|	num_views|
-|-------|-------|
 |pagecount_mobile_views|	num_views|
-|-------|-------|
 |pageview_all_views|	num_views|
-|-------|-------|
 |pageview_desktop_views	|num_views|
-|-------|-------|
 |pageview_mobile_views|	num_views|
-|-------|-------|
 
 ## Additional Information
 
